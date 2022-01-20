@@ -1,60 +1,60 @@
 # interview
-To run the code , simply use , I do not install any external library. I am using python 3.9 \n
-python3 question_1.py
-python3 question_2.py \n
+To run the code , simply use , I do not install any external library. I am using python 3.9 <br />
+python3 question_1.py <br />
+python3 question_2.py <br />
 
 # question 1 output 
-wheels=4
-doors=4
-seats=7
-maxSpeed=120
-120
-120
-120
-120
-120
-120
-120
-120
-120
-120
+wheels=4    <br />
+doors=4     <br />
+seats=7     <br />
+maxSpeed=120<br />
+120         <br />
+120         <br />
+120         <br />
+120         <br />
+120         <br />
+120         <br />
+120         <br />
+120         <br />
+120         <br />
+120         <br />
 
-wheels=4
-doors=4
-seats=2
-maxSpeed=200
-200
-200
-200
-200
-200
-200
-200
-200
-200
-200
+wheels=4    <br />
+doors=4     <br />
+seats=2     <br />
+maxSpeed=200<br />
+200         <br />
+200         <br />
+200         <br />
+200         <br />
+200         <br />
+200         <br />
+200         <br />
+200         <br />
+200         <br />
+200         <br />
 
 # question 2 output 
-120
-200
-120
-200
-120
-200
-120
-200
-120
-200
-120
-200
-120
-200
-120
-200
-120
-200
-120
-200
+120         <br />
+200         <br />
+120         <br />
+200         <br />
+120         <br />
+200         <br />
+120         <br />
+200         <br />
+120         <br />
+200         <br />
+120         <br />
+200         <br />
+120         <br />
+200         <br />
+120         <br />
+200         <br />
+120         <br />
+200         <br />
+120         <br />
+200         <br />
 
 # question 3 
 1. Why is the output in 2 and 1 different ?
