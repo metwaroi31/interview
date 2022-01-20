@@ -1,4 +1,7 @@
 # interview
+To run the code , simply use , I do not install any external library. I am using python 3.9
+python3 question_1.py
+python3 question_2.py
 
 # question 1 output 
 wheels=4
